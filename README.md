@@ -17,5 +17,6 @@ Genshin, Unstable, Lifesteal, Ava/Avm, School Bus graveyard, Murder Drones, Obey
 
 <p align="center">  <img width="2048" height="1622" alt="Untitled45_20260220142417_transfer_2026-02-20_151516" src="https://github.com/user-attachments/assets/d8dcc7de-c98a-40df-a50f-4aee9baa9e8d"/> </p> 
 
+<hr style="border: 3px solid Purple ;"> </hr>
 
 <p align="center"> <img width="2048" height="1622" src="https://github.com/user-attachments/assets/f46cc03f-0f80-4def-8a50-0a124a90019b"/> </p>
